@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student doing Computer Vision at CVSSP, University of Surrey, and BBC R&D.
+subtitle: PhD student doing Computer Vision at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a>, University of Surrey, and <a href="https://www.bbc.co.uk/rd">BBC R&D</a>.
 
 profile:
   align: right
