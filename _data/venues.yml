@@ -4,3 +4,15 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"BMVC":
+  url: https://britishmachinevisionassociation.github.io/bmvc
+  color: "#8b2b31"
+
+"AI4CC at CVPR":
+  url: https://ai4cc.net/
+  color: "#8DB6CD"
+
+"Monthly Mini Hacks":
+  url: https://osf.io/wbupr/
+  color: "#0D4F8B"
