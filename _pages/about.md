@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a mathematician specialised in computer science and programming. I am particularly interested in projects that involve applied mathematics, machine learning, Linux and open source, and basically any exciting project that helps me develop my skills as a computer scientist.
+I am a **mathematician** specialised in computer science and programming. I am particularly interested in projects that involve **computer vision**, deep learning, applied mathematics, Linux and **open source**, and basically any exciting project that helps me develop my skills as a computer scientist.
 
 I am currently working towards a PhD in Computer Vision applied to Media Production at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) (University of Surrey) with [BBC R&D](https://www.bbc.co.uk/rd). My topic is *Generating Virtual Camera Views Using Generative Networks*. I am familiar with deep learning inpainting techniques, generative adversarial networks, novel view synthesis approaches, NeRF, etc. You can find my publications [here](/publications/).
 
