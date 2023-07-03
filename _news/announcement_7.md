@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I presented my paper on sparse view synthesis at AI4CC at CVPR2023
-date: 2022-11-21 12:21:00-0000
+date: 2023-06-18 12:21:00-0000
 inline: false
 ---
 
@@ -9,9 +9,11 @@ I am really grateful for the opportunity to attend the [IEEE/CVF Conference on C
 
 CVPR is the largest conference in computer vision, and it's a unique event to discover the latest advances in the field. As well as offering a great forum to meet old friends and colleagues, as well as making new connections.
 
-I was also lucky to be able to present my [BMVC](https://bmvc2022.org/) work on Sparse View Synthesis at the AI4CC workshop.
+<p align="center"><img src="/assets/img/cvpr2023_group.jpg" width=700></p>
 
 ***
+
+I was also lucky to be able to present my [BMVC](https://bmvc2022.org/) work on Sparse View Synthesis at the AI4CC workshop.
 
 <p align="center"><img src="/assets/img/cvpr2023_poster.jpg" width=700></p>
 
