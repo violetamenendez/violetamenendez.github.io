@@ -5,7 +5,7 @@ date: 2023-06-18 12:21:00-0000
 inline: false
 ---
 
-I am really grateful for the opportunity to attend the [IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)](https://cvpr2023.thecvf.com/) in Vancouver. Thanks to my two student travel awards from SRUK/CERU and [AI for Content Creation (AI4CC) Workshop](https://ai4cc.net/) at CVPR23.
+I am really grateful for the opportunity to attend the [IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023 (CVPR)](https://cvpr2023.thecvf.com/) in Vancouver. Thanks to my two student travel awards from [SRUK/CERU](https://sruk.org.uk/) and [AI for Content Creation (AI4CC) Workshop](https://ai4cc.net/) at CVPR23.
 
 CVPR is the largest conference in computer vision, and it's a unique event to discover the latest advances in the field. As well as offering a great forum to meet old friends and colleagues, as well as making new connections.
 
