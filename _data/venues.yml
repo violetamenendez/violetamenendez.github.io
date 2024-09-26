@@ -9,6 +9,10 @@
   url: https://britishmachinevisionassociation.github.io/bmvc
   color: "#8b2b31"
 
+"VUA at BMVC":
+  url: https://vua-bmvc.github.io/
+  color: "#8b2b31"
+
 "AI4CC at CVPR":
   url: https://ai4cc.net/
   color: "#8DB6CD"
