@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student doing Computer Vision at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a> —University of Surrey— and <a href="https://www.bbc.co.uk/rd">BBC R&D</a>.
+subtitle: Senior Research Software Engineer at <a href="https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/costar-national-lab/">CoSTAR National Lab</a> at <a href="https://www.surrey.ac.uk/centre-vision-speech-signal-processing">CVSSP</a> —University of Surrey.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Based in Manchester, UK</p>
+    <p>Based in London, UK</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a **mathematician** specialised in computer science and programming. I am particularly interested in projects that involve **computer vision**, deep learning, applied mathematics, Linux and **open source**, and basically any exciting project that helps me develop my skills as a computer scientist.
+I am a Senior Research Software Engineer at the [CoSTAR National Lab](https://www.ukri.org/councils/ahrc/remit-programmes-and-priorities/convergent-screen-technologies-and-performance-in-realtime-costar/costar-national-lab/), part of [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) at the [University of Surrey](https://www.surrey.ac.uk/people/violeta-menendez-gonzalez). I have a strong background in computer vision, deep learning, and mathematics, with a passion for Linux, open-source projects, and developing innovative solutions to complex technical problems.
 
-I am currently working towards a PhD in Computer Vision applied to Media Production at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing) (University of Surrey) with [BBC R&D](https://www.bbc.co.uk/rd). My topic is *Generating Virtual Camera Views Using Generative Networks*. I am familiar with deep learning inpainting techniques, generative adversarial networks, novel view synthesis approaches, NeRF, etc. You can find my publications [here](/publications/).
+I successfully completed my PhD in Computer Vision applied to Media Production at [CVSSP](https://www.surrey.ac.uk/centre-vision-speech-signal-processing), University of Surrey, in collaboration with [BBC R&D](https://www.bbc.co.uk/rd). My research focused on Generating Virtual Camera Views Using Generative Networks, and I am experienced in deep learning inpainting techniques, generative adversarial networks, novel view synthesis approaches, NeRF, Gaussian Splatting, and more. You can find my publications [here](https://scholar.google.com/citations?user=sle-D7AAAAAJ&hl=en&authuser=2&oi=ao).
 
-I believe open and reproducible science is really important for the future of research and for trust in science. I am a member of the [Surrey Reproducibility Society](https://osf.io/a6xqu/), and as part of this initiative I run the [Monthly Mini Hacks](https://f1000research.com/collections/minihacks/about-this-collection). These are monthly [workshops](https://www.eventbrite.com/manage/collections/440659/events) that promote the intersection between open science and coding. We aim to cultivate best programming practices in research and to provide peer-to-peer support for learning new skills and abilities, and we also share all our [resources](https://osf.io/wbupr/) to facilitate open collaboration. We are always looking for new people for long-term collaborations, one-time talks (you don't need to be an expert!), or just to join us to see what others have to say. Feel free to send me an [email](mailto:v.menendezgonzalez@surrey.ac.uk) or follow us on [Twitter](https://twitter.com/MHacksC).
+I am a firm believer in open and reproducible science as a cornerstone for future research and building trust in the scientific community. As a member of the [Surrey Reproducibility Society](https://osf.io/a6xqu/), I organised the [Monthly Mini Hacks (MMH)](https://f1000research.com/collections/minihacks/about-this-collection), which are workshops that bridge open science and coding. These sessions promote best programming practices in research, offer peer-to-peer support for skill development, and provide resources for open collaboration. I gave a talk about our work at the MMH at [FOSDEM 2024](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3479-from-grassroots-to-standard-practice-how-an-open-science-society-shaped-university-initiatives/). I also help organise the [Open Research Devroom](https://research-fosdem.github.io/) at [FOSDEM](https://fosdem.org/).
 
-I really enjoy learning new things about life, the universe, and everything, and I love talking with people about what they are passionate about. I really enjoy books, films, cooking (and baking for the office!), travelling, languages, the great outdoors... I am currently the treasurer of the [Surrey Scuba Diving Society](https://ussu.co.uk/SubAqua) and a [STEM ambassador](https://www.stem.org.uk/).
+Outside of work, I’m always eager to learn more about life, the universe, and everything, and I really enjoy talking with others about their passions. I love books, films, cooking (and baking for the office!), travelling, languages, and exploring the great outdoors. I am an active [STEM ambassador](https://www.stem.org.uk/) and I served as treasurer for the Surrey [Surrey Scuba Diving Society](https://ussu.co.uk/SubAqua) during my PhD.
 
